@@ -16,5 +16,19 @@ php date functions:
 https://www.php.net/manual/de/function.date.php
 like * .<month>.2020
 
+Calling a JS function in PHP:
+https://stackoverflow.com/questions/1045845/how-to-call-a-javascript-function-from-php
+
+
+Now we want to select the records with an OrderDate of "2008-11-11" from the table above.
+SELECT * FROM Orders WHERE OrderDate='2008-11-11'
+
+
+Date formats:
+- DATE - format YYYY-MM-DD
+- DATETIME - format: YYYY-MM-DD HH:MI:SS
+- TIMESTAMP - format: YYYY-MM-DD HH:MI:SS
+- YEAR - format YYYY or YY
+
 Basic Php:
 https://github.com/PHPMySQLbasics/example?files=1
