@@ -1,0 +1,17 @@
+Download Links:
+Xampp:
+https://www.apachefriends.org/de/download.html
+
+Workbench:
+https://dev.mysql.com/downloads/workbench/
+
+Visual Studio Code:
+https://code.visualstudio.com/download
+
+
+php files:
+xampp --> htdocs folder
+
+php date functions:
+https://www.php.net/manual/de/function.date.php
+like * .<month>.2020
